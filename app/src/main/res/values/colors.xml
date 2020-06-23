@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="main">#00574B</color>
+    <color name="colorBlack">#000000</color>
+    <color name="primary">#607D8B</color>
+    <color name="primary_dark">#455A64</color>
+    <color name="primary_light">#f5f5f5</color>
+    <color name="accent">#9E9E9E</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="background2">#65828e</color>
+    <color name="main_color">#ff9a00</color>
+    <color name="secondary_color">#BDBDBD</color>
+    <color name="progress_reached_color">#6DBCDB</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="red_graph">#cc363e</color>
+    <color name="yellow_graph">#fcb817</color>
+    <color name="blue_graph">#02a9d3</color>
+    <color name="pink">#e98288</color>
+    <color name="yellow_graph1">#f9d276</color>
+    <color name="light_blue">#6DBCDB</color>
+    <color name="hover">#671c1e</color>
+    <color name="blue_theme">#005b9e</color>
+    <!--<color name="green">#16dc26</color>-->
+    <color name="blue2">#268cef</color>
+    <color name="yellow">#fdf438</color>
+    <color name="red">#f31010</color>
+    <!--<color name="gray2">#aaaaaa</color>-->
+    <color name="font_green">#1d902b</color>
+    <!--<color name="font_blue">#00255f</color>-->
+    <color name="font_yellow">#ffdd00</color>
+    <color name="font_orange">#ff9e00</color>
+    <color name="background">#c7c8ca</color>
+    <!--<color name="blue">#009caa</color>-->
+    <!--<color name="gray">#6d6e71</color>-->
+    <color name="blue">#0093e9</color>
+    <color name="gray">#c4c4c4</color>
+    <color name="dark_gray">#8e8e8e</color>
+    <color name="ic_launcher_background">#ffffff</color>
+
+    <color name="orange">#cef1f9</color>
+    <color name="black">#000000</color>
+    <color name="darkGray">#505050</color>
+    <color name="Red">#ff0000</color>
+    <color name="orange2">#cef1f9</color>
+    <color name="gray2">#6e6e6e</color>
+    <color name="greenblue">#0193e9</color>
+    <color name="green">#00451c</color>
+    <color name="dark_blue">#00105e</color>
+    <color name="white">#ffffff</color>
+    <color name="lightBlue">#28cdff</color>
+    <color name="back">#cbceec</color>
+
+    <color name="lowgray">#eaeaea</color>
+    <color name="messageBack">#44cccccc</color>
+    <color name="messageShadow">#88aaaaaa</color>
+
+    <color name="cardFront">#434850</color>
+    <color name="cardBack">#bc4c4a</color>
+    <color name="font_blue">#115e8b</color>
+    <color name="blue3">#051dff</color>
+    <color name="transParent">#00FFFFFF</color>
+
+
+
+
+
+
+
+
+
+
+    <!--new graphic-->
+    <color name="green2">#469b51</color>
+    <color name="green_text">#1c6730</color>
+    <color name="light_green">#daebdc</color>
+    <color name="light_gray">#EBEBEB</color>
+    <color name="colorPrimary">#2E2E2E</color>
+    <color name="colorPrimaryLigth">#494949</color>
+    <color name="colorPrimaryDark">#1B1B1B</color>
+    <color name="colorAccent">#1B1B1B</color>
+    <color name="black_button">#414441</color>
+    <color name="window_white">#F9F9F9</color>
+
+
+
+</resources>

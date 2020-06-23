@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/bt_help"
+            android:icon="@drawable/helpicon"
+            android:title="Help"/>
+
+        <item
+            android:id="@+id/bt_info"
+            android:icon="@drawable/info_icon"
+            android:title="Company Info"/>
+
+        <item
+            android:id="@+id/bt_import"
+            android:icon="@drawable/icon_import"
+            android:title="Import Items"/>
+        <item
+            android:id="@+id/bt_upload"
+            android:icon="@drawable/upload"
+            android:title="Upload unSend Data"/>
+
+        <item
+            android:id="@+id/bt_allDataUpload"
+            android:icon="@drawable/uploadall"
+            android:title="Upload all Data"/>
+
+        <item
+            android:id="@+id/bt_description"
+            android:icon="@drawable/description"
+            android:title="Description"/>
+
+
+        <item
+            android:id="@+id/bt_selectLanguage"
+            android:icon="@drawable/selectlangue"
+            android:title="Select Language"/>
+        <item
+            android:id="@+id/bt_importLanguage"
+            android:icon="@drawable/addlanguage"
+            android:title="Import Language"/>
+
+        <item
+            android:id="@+id/bt_clearData"
+            android:icon="@drawable/delete"
+            android:title="Delete Data"/>
+        <item
+            android:id="@+id/bt_setting"
+            android:icon="@drawable/logout"
+            android:title="Setting"/>
+        <item
+            android:id="@+id/bt_logout"
+            android:icon="@drawable/logout"
+            android:title="Exit"/>
+
+
+    </group>
+
+</menu>

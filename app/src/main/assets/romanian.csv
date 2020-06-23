@@ -1,0 +1,122 @@
+1,Aplicația StoreRoom
+2,Informatiile Companiei
+3,Numele Companiei
+4,Adresa Companiei
+5,Adaugati logo-ul Companiei
+6,Salvati
+7,Va rugam introduceti numele companiei
+8,Va rugam introduceti adresa companiei
+9,Va rugam sa adaugati logo-ul companiei
+10,Socoteala
+11,Coduri de bare
+12,Numele
+13,Cantitate
+14,adauga
+15,Finalizare
+16,Va rugam sa il semnati
+17,Terminat
+18,Adaugati un element nou
+19,Anulare
+20,Va rugam sa numarati marfurile si sa le adaugati in lista
+21,Va rugam sa introduceti numele marfurilor noi
+22,Eroare! Nu pot deschide fisierul
+23,Descriere
+24,Procesul de intrare
+25,Procesul de iesire
+26,Procesul de numarare
+27,Procesul de retur
+28,Descriere salvata cu succes
+29,Intrare
+30,Nume de utilizator
+31,Numarul pachetului
+32,Articole
+33,Va rugam sa scanati cel putin un pachet
+34,Va rugam sa scrieti un comentariu
+35,Daca aveti unele articole, cititi codul de bare si altfel faceti clic pe Terminat
+36,De iesire
+37,Numarul de livrare
+38,Comanada cod de bare
+39,Va rugam sa Scanati numarul de livrare
+40,Numarul de livrare a fost citit inainte
+41,Import
+42,Fisier Csv adaugat
+43,Afisati detalii despre date
+44,Importati date noi
+45,Selectati fisier CSV
+46,Va rugam sa adaugati un fisier CSV care contine date
+47,Articolele au fost importate cu succes
+48,Fisierul nu are 2 coloane
+49,Numarul de date noi
+50,Numarul de date duplicate
+51,Fisierul specificat nu a fost gasit, selectati fisierul*.csv din spatiul de stocare intern
+52,Splitter
+53,Ce Splitter a fost utilizat in fisierul dvs.csv
+54,Virgula
+55,Punct si virluga
+56,Daca doriti sa stergeti datele vechi si sa impotati una noua, faceti clic pe Resetare,altfel faceti clic pe Actualizare
+57,Restabili
+58,Actualizati
+59,Actiuni
+60,Inregistrari ale articolului
+61,Articol de iesire
+62,Numararea articolelor
+63,Intorcere
+64,Socotela
+65,Nu a fost gasita nicio inregistrare Va rugam sa incepeti noul proces de numarare
+66,Daca doriti continuati unul dintre procesele anterioare, selectati din lista de mai jos
+67,Adaugati un nou proces de numarare
+68,Informatii noi despre contorizare
+69,Numele contorului
+70,V arugam sa introduceti nemele dvs. si data valabila
+71,Foaie de numarare a succesului adaugat complet
+72,De iesire
+73,Daca doriti sa continuati unul dintre procesele dvs. de iesire anteruoare, va rugam sa selectati din lista de mai jos
+74,Nu a fost gasita inregistrare
+75,Adaugati un nou proces de iesire
+76,Informatii noi de iesire
+77,Numele soferului
+78,Numarul vehiculului
+79,Va rugam sa introduceti numele soferului numarul vehiculului si data valabila
+80,Foaie de iesire reusita adaugata complet
+81,Articol de intrare
+82,Nu a fost gasita nicio inregistrare Va rugam sa incepeti noul proces de intrare
+83,Daca doriti sa continuati unul dintre procesele de intrare anterioare, va rugam sa selectati din lista de mai jos
+84,Adaugati un nou proces de intrare
+85,Informatii desore intrare noua
+86,Va rugam sa introduceti numele de utilizator si descriaerea de intrare valabila
+87,Fisa de intrare Succes complet adaugat
+88,Nu a fost gasita nicio inregistrare Va rugam sa incepeti noul proces de returnare
+89,Daca doriti sa continuati unul dintre procesele de returnare anterioare, selecteti din lista de mai jos
+90,Adăugați un nou proces de returnare
+91,Informații despre returnări noi
+92,Postează codul de bare
+93,Numele receptorului
+94,Numele șoferului vehiculului
+95,Vă rugăm să introduceți toate informațiile și data valabilă
+96,Foaie de retur Succes complet adăugat
+97,Fotografii Attache
+98,Semnătura primitorului
+99,salvați și obțineți semnătura șoferului
+100,Semnătura șoferului
+101,Dacă aveți unele articole, citiți codul de bare și altfel faceți clic pe Terminat
+102,Vă rugăm să adăugați la comentariu ultimul articol și faceți clic pe butonul Adăugare
+103,vă rugăm să adăugați cel puțin un articol
+104,Fotografii
+105,Atașați câteva fotografii ale pachetului
+106,Adaugă la listă
+107,Puteți selecta până la patru fotografii
+108,selectați cel puțin o fotografie
+109,Salvați fotografii
+110,Comanda cod de bare trebuie să aibă mai mult de 4 număr
+111,Pachet Cod de bare
+112,Vă rugăm să introduceți numele articolelor noi
+113,Data numărării
+114,Numele articolului
+115,Codul de bare al articolului
+116,Suma articolului
+117,Data
+118,Receptor
+119,Vă rugăm să citiți codul de bare al articolului și să scrieți
+120,vă rugăm să scrieți un comentariu pentru acest articol
+121,Cometariu
+122,Adăugați acest articol

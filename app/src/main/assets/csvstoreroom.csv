@@ -1,0 +1,122 @@
+1,StoreRoom App
+2,Company Information
+3,Company Name
+4,Company Address
+5,Add Company Logo
+6,Save
+7,Please enter the company name!
+8,please enter the company address!
+9,Please add the company logo!
+10,Counting
+11,Barcode
+12,Name
+13,Amount
+14,Add
+15,Finish
+16,Please sign it
+17,Done
+18,Add new item
+19,Cancel
+20,Please Count Goods and Add it into list
+21,Please Enter Name Of New Goods
+22,Error! Can not open file.
+23,Description
+24,Entrance Process
+25,Outgoing Process
+26,Counting Process
+27,Return Process
+28,Description Successfully saved
+29,Entrance
+30,User Name
+31,Package Number
+32,Items
+33,Please scan at least one package
+34,Please write some comment
+35,If you have some items read their barcode and otherwise click on Done
+36,Outgoing
+37,Delivery Number
+38,Order barCode
+39,Please Scan the delivery number
+40,Delivery Number has been read before
+41,Import
+42,Csv File Added
+43,Show Data Detail
+44,Import new Data
+45,Select CSV File
+46,Pleas Add csv File that contain Data
+47,Items has been imported successfully
+48,File has not 2 column
+49,Number Of New Data
+50,Number Of Duplicate Data
+51,The specified file was not found please select *.csv file from internal storage
+52,Splitter
+53,Which Splitter has been used in your csv file?
+54,Comma
+55,Semicolon
+56,If you want to clear old data and import new one click on Reset otherwise click on Update
+57,reset
+58,update
+59,Actions
+60,Entries Of Item
+61,Outgoing Item
+62,Item Counting
+63,Return
+64,Counting
+65,No record found Please start new Counting Process
+66,If you want to continue one of your previous counting process please select from the list below:
+67,Add new counting process
+68,New Counting Info
+69,Counter Name
+70,please enter your Name and valid date
+71,Counting Sheet SuccessFully Added
+72,Outgoing
+73,If you want to continue one of your previous outgoing process please select from the list below:
+74,No record found Please start new Outgoing Process
+75,Add new Outgoing Process
+76,New Outgoing Info
+77,Driver Name
+78,Vehicle Number
+79,please enter driver Name vehicle number and valid date
+80,Exit Sheet SuccessFully Added
+81,Entrance Item
+82,No record found Please start new Entrance Process
+83,If you want to continue one of your previous entrance process please select from the list below:
+84,Add new entrance Process
+85,New Entrance Info
+86,please enter User Name entrance description and valid date
+87,Entrance Sheet SuccessFully Added
+88,No record found Please start new Return Process
+89,If you want to continue one of your previous return process please select from the list below:
+90,Add new return process
+91,New Return Info
+92,Post Barcode
+93,Receiver Name
+94,Vehicle Driver Name
+95,please enter all info and valid date
+96,Return Sheet SuccessFully Added
+97,Attache Photos
+98,Receiver Signature
+99,save and get driver Signature
+100,Driver Signature
+101,If you have some items read their barcode and otherwise click on Done
+102,please add at comment on last item and click on add button
+103,please add at least one item
+104,Photos
+105,Attach some photos of package
+106,Add to list
+107,You can select up to four photos
+108,please select at least one photo
+109,Save photos
+110,Order barcode must have more than 4 number
+111,Package Barcode
+112,Please Enter Name Of New Items
+113,Counting Date
+114,Item Name
+115,Item Barcode
+116,Item Amount
+117,Date
+118,Receiver
+119,please read item barcode and write comment
+120,please write comment for this item
+121,Comment
+122,Add this item
